@@ -1,11 +1,11 @@
 ~~~python
-print(Ola, mundo! 🌎)
-print(Me chamo Luccas Oliveira...  🎈)
+print('Ola, mundo! 🌎')
+print('Me chamo Luccas Oliveira...  🎈')
 
-def apresentacaoo():
-      print(📚 Atualmente sou Estudante pela FATEC no 1º Termo de ADS)
-      print(🐍 Estou aprendendo conceitos, lógicas, algoritmos, e aplicando meus conhecimentos em Python)
-      print(📫 Como chegar até mim: luccasoliveira.dev@gmail.com)
+def apresentacao():
+      print('📚 Atualmente sou Estudante pela FATEC no 1º Termo de ADS')
+      print('🐍 Estou aprendendo conceitos, lógicas, algoritmos, e aplicando meus conhecimentos em Python')
+      print('📫 Como chegar até mim: luccasoliveira.dev@gmail.com')
 
 apresentacao()
 ~~~
