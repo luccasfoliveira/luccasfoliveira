@@ -25,9 +25,8 @@ apresentacao()
 ##
 
 <div align="center"> 
-  <a href="https://instagram.com/luccasoliveirx" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:luccasoliveira.dev@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/luccasoliver" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+   <a href="https://www.linkedin.com/in/luccasoliver" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Linkedin-lucasmarcuzo" height="30" width="40" /></a>  
+  <a href="https://www.beecrowd.com.br/judge/pt/profile/643130" target="blank"><img align="center" src="https://www.beecrowd.com.br/judge/favicon.ico?1635097036" alt="Beecrowd-Luccas-Oliviera" height="30" /></a>
  
   ![Snake animation](https://github.com/luccasfoliveira/luccasfoliveira/blob/output/github-contribution-grid-snake.svg)
 
