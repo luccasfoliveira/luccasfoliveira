@@ -1,8 +1,8 @@
 ### Olá, mundo! 🌎
 ### Me chamo Luccas Oliveira...  🎈
 
-- 📚 Atualmente sou Estudante na FATEC - ADS 1º Termo
-- 🐍 Estou aprendendo Python 
+- 📚 Atualmente sou Estudandde pela FATEC no 1º Termo de ADS
+- 🐍 Estou aprendendo conceitos, lógicas, algoritmos, e aplicando meus conhecimentos em Python
 - 📫 Como chegar até mim: luccasoliveira.dev@gmail.com
 
 ##
