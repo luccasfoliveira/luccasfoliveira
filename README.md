@@ -1,3 +1,13 @@
+ <img width="100%" height="50" src="etc/bar-nav.gif"/>
+ 
+ <div align="center"> 
+    <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="100">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+welcome!+✌🏻;I'm+Luccas+Oliveira...;+Nice+to+meet+you!&center=true&size=30">
+    <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Hello_Big.gif" width="80">
+ </div>
+ 
+ <a align="left" href="#"><img width="100%" height="1" src="etc/bar.gif" /></a>
+
 ~~~python
 print('Ola, mundo! 🌎')
 print('Me chamo Luccas Oliveira...  🎈\n')
@@ -17,9 +27,10 @@ apresentacao()
   <img height="150" src="https://github-readme-stats.vercel.app/api?username=luccasfoliveira&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luccasfoliveira&layout=compact&langs_count=7&theme=dark"/>
 </div>
-
+<div align="center"> 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+</div>
 </div>
 
 ##
