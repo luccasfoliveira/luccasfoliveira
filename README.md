@@ -14,7 +14,7 @@ print('Me chamo Luccas Oliveira...  🎈\n')
 
 def apresentacao():
       print('📚 Atualmente sou Estudante pela FATEC no 2º Termo de ADS\n'
-            '🐍 Estou aprendendo conceitos, lógicas, algoritmos, e aplicando meus conhecimentos em Python\n'
+            '🐍 Estou aprendendo conceitos, lógicas, algoritmos, e aplicando meus conhecimentos em Python e C#\n'
             '📫 Como chegar até mim: luccasoliveira.dev@gmail.com')
 
 
