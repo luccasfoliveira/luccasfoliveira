@@ -8,20 +8,6 @@
  
  <a align="left" href="#"><img width="100%" height="1" src="etc/bar.gif" /></a>
 
-~~~python
-print('Ola, mundo! 🌎')
-print('Me chamo Luccas Oliveira...  🎈\n')
-
-def apresentacao():
-      print('📚 Atualmente sou Estudante pela FATEC no 2º Termo de ADS\n'
-            '🐍 Estou aprendendo conceitos, lógicas, algoritmos, e aplicando meus conhecimentos em Python e C#\n'
-            '📫 Como chegar até mim: luccasoliveira.dev@gmail.com')
-
-
-apresentacao()
-~~~
-##
-
 <div align="center">
   <a href="https://github.com/luccasfoliveira">
   <img height="150" src="https://github-readme-stats.vercel.app/api?username=luccasfoliveira&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
